@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Another Day in Limbo.mp3";		
+f[2]	= "02 Alabama 1959.mp3";		
+f[3]	= "03 Great Big World.mp3";		
+f[4]	= "04 Rodeo Around the World.mp3";		
+f[5]	= "05 Black Sheep Boy.mp3";		
+f[6]	= "06 Cracker Jack Ring.mp3";		
+f[7]	= "08 Shady Grove.mp3";		
+f[8]	= "09 Anybody's Girl.mp3";		
+f[9]	= "10 You're Gonna Need This Memory.mp3";		
+f[10]	= "11 Love Will Find You Again.mp3";		
+f[11]	= "12 Song of Songs.mp3";		
+f[12]	= "Leonardo.mp3";		
