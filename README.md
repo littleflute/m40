@@ -1,4 +1,4 @@
-[v0.0.8](https://github.com/littleflute/m40/edit/master/README.md)
+[v0.0.9](https://github.com/littleflute/m40/edit/master/README.md)
 
 [B.B. King/Essential Original Albums Disc 2](B.B. King/Essential Original Albums Disc 2)
 
@@ -10,5 +10,7 @@
 [Pierce Pettis/Great Big World](Pierce Pettis/Great Big World)
 
 [Pierce Pettis/State of Grace](Pierce Pettis/State of Grace)
+
+[Pierce Pettis/That Kind of Love](Pierce Pettis/That Kind of Love)
 
 [Shop Around/Soul of the '60s](Shop Around/Soul of the '60s)
