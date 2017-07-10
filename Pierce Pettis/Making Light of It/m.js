@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Satellite Sky.mp3";		
+f[2]	= "02 My Life of Crime.mp3";		
+f[3]	= "04 Depending on Gravity.mp3";		
+f[4]	= "06 Granddaddy Blew the Whistle [Instrumental].mp3";		
+f[5]	= "07 Absalom, Absalom.mp3";		
+f[6]	= "08 This Ain't Love.mp3";		
+f[7]	= "09 Affectionate Girl.mp3";		
+f[8]	= "10 No Big Deal.mp3";		
+f[9]	= "11 Hold on to That Heart.mp3";		
+f[10]	= "12 You Move Me.mp3";		
+f[11]	= "13 Love's Gonna Carry Me Home.mp3";		
+f[12]	= "Desire.mp3";		
+f[13]	= "Miriam.mp3";		
