@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Tip of My Tongue.mp3";		
+f[2]	= "02 Neutral Ground.mp3";		
+f[3]	= "03 Just Like Jim Brown (She Is History).mp3";		
+f[4]	= "04 Love Will Always Find Its Way.mp3";		
+f[5]	= "05 God Believes in You.mp3";		
+f[6]	= "06 My Little Girl.mp3";		
+f[7]	= "07 My Heart Goes Out.mp3";		
+f[8]	= "09 Kingdom Come.mp3";		
+f[9]	= "10 Hole in My Heart.mp3";		
+f[10]	= "11 Words Said in the Dark.mp3";		
+f[11]	= "Comet.mp3";		
