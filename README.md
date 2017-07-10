@@ -1,4 +1,4 @@
-[v0.0.9](https://github.com/littleflute/m40/edit/master/README.md)
+[v0.1.9](https://github.com/littleflute/m40/edit/master/README.md)
 
 [B.B. King/Essential Original Albums Disc 2](B.B. King/Essential Original Albums Disc 2)
 
@@ -8,6 +8,8 @@
 [Pierce Pettis/Everything Matters](Pierce Pettis/Everything Matters)
 
 [Pierce Pettis/Great Big World](Pierce Pettis/Great Big World)
+
+[Pierce Pettis/Making Light of It](Pierce Pettis/Making Light of It)
 
 [Pierce Pettis/State of Grace](Pierce Pettis/State of Grace)
 
