@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Rise from the Ruins.mp3";		
+f[2]	= "02 State of Grace.mp3";		
+f[3]	= "03 Long Way Back Home.mp3";		
+f[4]	= "04 Georgia Moon.mp3";		
+f[5]	= "05 A Mountaineer Is Always Free.mp3";		
+f[6]	= "07 We Will Meet Again.mp3";		
+f[7]	= "08 Nothing But the Truth.mp3";		
+f[8]	= "09 Crying Ground.mp3";		
+f[9]	= "10 All in Good Time.mp3";		
+f[10]	= "11 Little River Canyon.mp3";		
+f[11]	= "12 Down in the Flood.mp3";		
+f[12]	= "13 I've Got a Hope.mp3";		
+f[13]	= "Moontown.mp3";		
